@@ -1,0 +1,85 @@
+h1,
+.subtitle,
+ul,
+ol,
+h2,
+li {
+    text-align: center;
+}
+
+p {
+    font-family: 'Times New Roman';
+    font-size: small;
+    text-align: center;
+    margin: 15px 500px;
+}
+h1 {
+    font-family: Arial;
+    height: 20px;
+    margin: 50px;
+}
+
+#smallsub {
+    text-align: center;
+    font-family: Arial;
+    margin: 50px;
+}
+
+a {
+    font-family: Arial;
+    text-align: center;
+}
+
+.subtitle {
+    font-style: italic;
+    font-family: Arial;
+    font-size: small;
+}
+
+.image {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  
+}
+
+#recipes{
+    border: 10px;
+    border-color:black;
+    border-style:double;
+}
+
+.title {
+    text-align: center;
+    font-family: Arial;
+    font-weight: bolder;
+    font-size: medium;
+    height: 8px;
+}
+
+.sbk {
+    height: 8px;
+}
+
+ul {
+    font-weight: bold;
+}
+
+#subt2 {
+    font-style: normal;
+}
+
+#indexlink {
+    padding-left: 100px;
+}
+
+#recipetitle {
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman';
+}
+
+#lastp {
+    padding-bottom: 50px;
+}
